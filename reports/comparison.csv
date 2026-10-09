@@ -1,0 +1,5 @@
+metric,before,after,delta,relative_change_pct
+answer_relevancy,0.2,0.4,0.2,100.0
+context_precision,0.0,0.4,0.4,inf
+faithfulness,0.0,0.2,0.2,inf
+ground_truth_consistency,0.8,1.0,0.19999999999999996,24.999999999999993

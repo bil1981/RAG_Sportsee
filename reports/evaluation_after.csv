@@ -1,0 +1,51 @@
+user_input,retrieved_contexts,response,reference,faithfulness,ground_truth_consistency
+Quels sont les bienfaits du sport sur la santé ?,['Match de basket entre les Lakers et les Celtics. Les Lakers ont gagné 98-95. LeBron James a marqué 30 points et pris 8 rebonds. Jayson Tatum a inscrit 25 points.'],"Je suis désolé, mais je ne peux pas répondre à cette question. La question posée ne semble pas avoir de rapport avec les contextes fournis. Si vous souhaitez que je réponde à une question liée au match de basket entre les Lakers et les Celtics, je serais ravi de vous aider.",Le sport améliore la santé cardiovasculaire et réduit le stress.,0,1
+Comment calculer les calories brûlées ?,['Match de basket entre les Lakers et les Celtics. Les Lakers ont gagné 98-95. LeBron James a marqué 30 points et pris 8 rebonds. Jayson Tatum a inscrit 25 points.'],"Pour calculer les calories brûlées, nous pouvons utiliser la formule de Harris-Benedict, qui est une estimation de la dépense énergétique basée sur la taille, le poids et l'âge. Cependant, cette formule ne prend pas en compte les activités physiques spécifiques comme le basket-ball.
+
+Une autre méthode consiste à utiliser la formule de Mifflin-St Jeor, qui est plus précise pour les activités physiques. Cette formule prend en compte le sexe, l'âge, le poids et la taille pour estimer la dépense énergétique.
+
+Pour calculer les calories brûlées, nous devons connaître les informations suivantes :
+
+* Poids de LeBron James : 108 kg
+* Taille de LeBron James : 2,06 m
+* Âge de LeBron James : 38 ans
+* Poids de Jayson Tatum : 95 kg
+* Taille de Jayson Tatum : 2,01 m
+* Âge de Jayson Tatum : 25 ans
+
+En utilisant la formule de Mifflin-St Jeor, nous pouvons estimer les dépenses énergétiques de LeBron James et Jayson Tatum.
+
+Pour LeBron James :
+
+* Pour les hommes, la formule est : 10 x poids (kg) + 6,25 x taille (cm) - 5 x âge (ans) + 5
+* 10 x 108 kg + 6,25 x 206 cm - 5 x 38 ans + 5 = 1 987,5 + 1 289,75 - 190 + 5 = 3 092,25
+
+Pour Jayson Tatum :
+
+* Pour les hommes, la formule est : 10 x poids (kg) + 6,25 x taille (cm) - 5 x âge (ans) + 5
+* 10 x 95 kg + 6,25 x 201 cm - 5 x 25 ans + 5 = 950 + 1 253,75 - 125 + 5 = 2 083,75
+
+Maintenant, nous devons connaître la durée du match. Un match de basket-ball dure environ 48 minutes.
+
+En utilisant la formule de Mifflin-St Jeor, nous pouvons estimer les dépenses énergétiques de LeBron James et Jayson Tatum pendant le match.
+
+Pour LeBron James :
+
+* 3 092,25 x 48 minutes = 148 784 calories
+
+Pour Jayson Tatum :
+
+* 2 083,75 x 48 minutes = 100 511 calories
+
+Cependant, ces chiffres sont des estimations et ne reflètent pas la dépense énergétique réelle de LeBron James et Jayson Tatum pendant le match. En effet, la dépense énergétique réelle dépend de plusieurs facteurs, notamment la vitesse, l'intensité et la fréquence des mouvements.
+
+Enfin, pour calculer les calories brûlées, nous devons connaître la dépense énergétique totale de LeBron James et Jayson Tatum pendant le match. Nous pouvons utiliser la formule suivante :
+
+* Calories brûlées = dépense énergétique totale / 4,184
+
+En utilisant les chiffres ci-dessus, nous obtenons :
+
+* Calories brûlées de LeBron James = 148 784 / 4,184 = 35 600 calories
+* Calories brûlées de Jayson Tatum = 100 511 / 4,184 = 24 000 calories
+
+Il convient de noter que ces chiffres sont des estimations et ne reflètent pas la dépense énergétique réelle de LeBron James et Jayson Tatum pendant le match.","Les calories brûlées se calculent en fonction du poids, de la durée et de l'intensité de l'activité.",0,1

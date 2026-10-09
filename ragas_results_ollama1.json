@@ -1,0 +1,45 @@
+{
+    "configuration": {
+        "ragas": "0.4.3",
+        "provider": "Ollama",
+        "llm": "llama3.1:latest",
+        "embeddings": "nomic-embed-text:latest",
+        "ollama_url": "http://localhost:11434"
+    },
+    "results": [
+        {
+            "test": 1,
+            "question": "Quel joueur a le meilleur pourcentage à 3 points sur les 5 derniers matchs ?",
+            "Context Precision": 0.9999999999,
+            "Context Recall": 1.0,
+            "Faithfulness": 1.0,
+            "Response Relevancy": 0.865052678626209,
+            "Answer Similarity": NaN
+        },
+        {
+            "test": 2,
+            "question": "Compare l'efficacité défensive de l'équipe à domicile et à l'extérieur.",
+            "Context Precision": 0.9999999999,
+            "Context Recall": 1.0,
+            "Faithfulness": 1.0,
+            "Response Relevancy": NaN,
+            "Answer Similarity": NaN
+        },
+        {
+            "test": 3,
+            "question": "Combien de paniers le coach a-t-il marqués pendant le debrief du 12 mars ?",
+            "Context Precision": 0.0,
+            "Context Recall": 1.0,
+            "Faithfulness": 1.0,
+            "Response Relevancy": NaN,
+            "Answer Similarity": NaN
+        }
+    ],
+    "averages": {
+        "Context Precision": 0.6666666666,
+        "Context Recall": 1.0,
+        "Faithfulness": 1.0,
+        "Response Relevancy": 0.865052678626209,
+        "Answer Similarity": NaN
+    }
+}
